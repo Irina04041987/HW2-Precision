@@ -17,7 +17,7 @@
 
 #### РЕЗУЛЬТАТЫ ПРОВЕРКИ ####  
 
-** БАГ-РЕПОРТ: ** https://github.com/Irina04041987/HW2-Precision/issues/1
+**БАГ-РЕПОРТ:** https://github.com/Irina04041987/HW2-Precision/issues/1
 
 #### ТЕСТИРОВАНИЕ ПРОИЗВОДИЛОСЬ В СЛЕДУЮЩЕМ ОКРУЖЕНИИ: #### 
 
