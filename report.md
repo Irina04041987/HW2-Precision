@@ -24,11 +24,12 @@
 
 **В качестве тестовых данных использовались данные:**
 
-regularBonus = 0.3
+- regularBonus = 0.3
 
-specialBonus = 0.6;
+- specialBonus = 0.6;
 
 #### ТЕСТИРОВАНИЕ ПРОИЗВОДИЛОСЬ В СЛЕДУЮЩЕМ ОКРУЖЕНИИ: #### 
 
 • java version "15.0.1"
+
 • Windows 7 проф, service pack 1 64 K
